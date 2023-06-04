@@ -1,4 +1,4 @@
-spring+react 練習
+spring + react + postgresql 
 
 環境：wsl2 ubuntu22.04 、 docker-compose
  
